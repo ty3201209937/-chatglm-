@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/chatgpt-java-wx.iml" filepath="$PROJECT_DIR$/.idea/chatgpt-java-wx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mychatgpt_server/myChatGPT.iml" filepath="$PROJECT_DIR$/mychatgpt_server/myChatGPT.iml" />
+    </modules>
+  </component>
+</project>
